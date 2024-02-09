@@ -1,5 +1,5 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Nursya'bani Haris</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Nursya'bani Haris <picture><img src="https://media.tenor.com/2dkNjV4qsrUAAAAi/707-mystic-messenger.gif" width=50px /></picture></h1>
 <h3 align="center">A passionate Web development</h3>
 
 <p align="center">
@@ -19,10 +19,11 @@
 
 - :boom: You can visit [MY CTF WEBSITE](http://18.141.159.226/).
 
+<br>
 
-## My Skills
+## <picture><img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=50px /></picture> My Skills
 
-### Backend Development
+###  Backend Development
 
 <p align="left">  
       <img alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -82,7 +83,9 @@
      <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
-## My Profile
+<br>
+
+## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width=50px /></picture>  My Profile
 
 ### Github Profile Stats
 
