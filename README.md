@@ -13,11 +13,12 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-<img align="right" alt="coding" width="400" src="https://buat.web.id/wp-content/uploads/2020/02/Web-Design-Dan-Web-Developer-Di-Indonesia.gif">
 
 ## <picture><img src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif" width=50px /></picture> About Me
-
-- :boom: You can visit [MY CTF WEBSITE](http://18.141.159.226/).
+- :white_flag: I am a beginner CTF player.
+- :penguin: I am a linux user.
+- :earth_asia: You can visit My CTF Website [HarisCTF](http://18.141.159.226/).
+- :computer: I'm still learning in the field of website development.
 
 <br>
 
@@ -91,4 +92,5 @@
 
 <p align="left">
   <img alt="Nursyabnii Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursyabnii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+  <img align="right" alt="coding" width="400" src="https://buat.web.id/wp-content/uploads/2020/02/Web-Design-Dan-Web-Developer-Di-Indonesia.gif">
 </p>
