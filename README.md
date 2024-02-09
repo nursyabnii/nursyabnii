@@ -88,5 +88,7 @@
 
 <p align="left">
   <img alt="Nursyabnii Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursyabnii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-  <img src="https://raw.githubusercontent.com/nursyabnii/nursyabnii/output/snake.svg" alt="Snake animation" />
+</p>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/nursyabnii/nursyabnii/output/snake.svg" alt="Snake animation" />
 </p>
