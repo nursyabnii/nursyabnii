@@ -91,6 +91,6 @@
 ### Github Profile Stats
 
 <p align="left">
-  <img alt="Nursyabnii Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursyabnii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
-  <img align="right" alt="coding" width="400" src="https://buat.web.id/wp-content/uploads/2020/02/Web-Design-Dan-Web-Developer-Di-Indonesia.gif">
+  <img alt="Nursyabnii Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursyabnii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/> <img align="right" alt="coding" width="400" src="https://buat.web.id/wp-content/uploads/2020/02/Web-Design-Dan-Web-Developer-Di-Indonesia.gif"></a>
+  
 </p>
