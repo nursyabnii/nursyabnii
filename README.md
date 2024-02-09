@@ -1,5 +1,5 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Nursya'bani Haris <picture><img src="https://media.tenor.com/2dkNjV4qsrUAAAAi/707-mystic-messenger.gif" width=50px /></picture></h1>
+<h1 align="center">Hi 👋, I'm Muhammad Nur Sya'bani Haris <picture><img src="https://media.tenor.com/2dkNjV4qsrUAAAAi/707-mystic-messenger.gif" width=50px /></picture></h1>
 <h3 align="center">A passionate Web development</h3>
 
 <p align="center">
