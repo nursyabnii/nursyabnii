@@ -1,6 +1,5 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Nur Sya'bani Haris <picture><img src="https://media.tenor.com/2dkNjV4qsrUAAAAi/707-mystic-messenger.gif" width=50px /></picture></h1>
-<h3 align="center">A passionate Web development</h3>
 
 <p align="center">
 <a href="https://instagram.com/nursyabnii">
@@ -12,6 +11,9 @@
   <a href="https://id.linkedin.com/in/nursyabani28">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</p>
+<p align="center">
+    <picture><img src="https://buat.web.id/wp-content/uploads/2020/02/Web-Design-Dan-Web-Developer-Di-Indonesia.gif" width=350px /></picture>    
 </p>
 
 ## <picture><img src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif" width=50px /></picture> About Me
@@ -100,8 +102,6 @@
 ### Github Profile Stats
 
 <p align="left">
-  <img alt="Nursyabnii Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursyabnii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
-  &emsp;
-  <picture><img src="https://buat.web.id/wp-content/uploads/2020/02/Web-Design-Dan-Web-Developer-Di-Indonesia.gif" width=310px /></picture>
-  
+    <img alt="Nursyabnii Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursyabnii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nursyabnii&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="nursyabnii" height="200px"/>
 </p>
