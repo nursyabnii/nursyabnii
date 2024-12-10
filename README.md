@@ -19,7 +19,6 @@
 ## <picture><img src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif" width=50px /></picture> About Me
 - :white_flag: I am a beginner CTF player.
 - :penguin: I am a linux user.
-- :earth_asia: You can visit My CTF Website [HarisCTF](http://54.169.33.129/).
 - :computer: I'm still learning in the field of website development.
 - 🌐Visit [My Website](https://haris-mu.vercel.app/).
 
