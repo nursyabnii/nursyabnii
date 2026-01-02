@@ -17,9 +17,10 @@
 </p>
 
 ## <picture><img src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif" width=50px /></picture> About Me
-- :white_flag: I am a beginner CTF player.
+- :white_flag: I am a KMIPN IV Cyber Security Finalist.
 - :penguin: I am a linux user.
-- :computer: I'm still learning in the field of website development.
+- :computer: I am a Fullstack Web Developer (Front-end & Back-end).
+- :cloud: I am a Google Cloud DevOps Engineer.
 - 🌐Visit [My Website](https://haris-mu.vercel.app/).
 
 <br>
