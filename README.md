@@ -1,5 +1,5 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Nur Sya'bani Haris <picture><img src="https://media.tenor.com/2dkNjV4qsrUAAAAi/707-mystic-messenger.gif" width=50px /></picture></h1>
+<h1 align="center"><picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width=50px /> </picture> Hi 👋, I'm Muhammad Nur Sya'bani Haris <picture><img src="https://media.tenor.com/2dkNjV4qsrUAAAAi/707-mystic-messenger.gif" width=50px /></picture></h1>
 
 <p align="center">
 <a href="https://instagram.com/nursyabnii">
@@ -99,12 +99,3 @@
 
 <br>
 
-## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width=50px /></picture>  My Profile
-
-### Github Profile Stats
-
-<p align="left">
-    <img alt="Nursyabnii Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursyabnii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
-&emsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nursyabnii&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="nursyabnii" height="200px"/>
-</p>
