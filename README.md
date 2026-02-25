@@ -100,3 +100,25 @@
 
 <br>
 
+## <picture><img src="https://media.tenor.com/uGsCH693vXIAAAAi/game-controller-joypad.gif" width=50px /></picture> My Games (Hosted on Vercel)
+
+| Game Name | Link |
+| :--- | :--- |
+| **Catch The Fruit Neon** | [🎮 Play Now](https://catch-the-fruit.vercel.app/) |
+| **Ular Neon** | [🎮 Play Now](https://ular-ten.vercel.app/) |
+| **Alkemis Elemen** | [🎮 Play Now](https://alkemis-elemen.vercel.app/) |
+| **Speed Scramble** | [🎮 Play Now](https://speed-scramble-gray-ten.vercel.app/) |
+| **Neon Dodge** | [🎮 Play Now](https://red-squares.vercel.app/) |
+| **Sudoku Neon** | [🎮 Play Now](https://sudoku-rho-five.vercel.app/) |
+| **Match Color** | [🎮 Play Now](https://match-color.vercel.app/) |
+| **Neon 2048** | [🎮 Play Now](https://neon-2048.vercel.app/) |
+| **Neon Tic Tac Toe** | [🎮 Play Now](https://neon-tic-tac-toe-two.vercel.app/) |
+| **Super Tic Tac Toe** | [🎮 Play Now](https://super-tic-tac-toe-six.vercel.app/) |
+| **Neon Flap** | [🎮 Play Now](https://neon-flap-two.vercel.app/) |
+| **Neon Air Hockey** | [🎮 Play Now](https://neon-air-fx.vercel.app/) |
+| **Neon Breaker** | [🎮 Play Now](https://neon-breaker-two.vercel.app/) |
+| **Neon Pong** | [🎮 Play Now](https://neon-pong-six.vercel.app/) |
+| **Cek Kesehatan Ideal** | [🎮 Play Now](https://cek-bb.vercel.app/) |
+
+<br>
+
