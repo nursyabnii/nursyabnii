@@ -100,9 +100,9 @@
 
 <br>
 
-## <picture><img src="https://media.tenor.com/uGsCH693vXIAAAAi/game-controller-joypad.gif" width=50px /></picture> My Games (Hosted on Vercel)
+## My App Hosted on Vercel
 
-| Game Name | Link |
+| App Name | Link |
 | :--- | :--- |
 | **Catch The Fruit Neon** | [🎮 Play Now](https://catch-the-fruit.vercel.app/) |
 | **Ular Neon** | [🎮 Play Now](https://ular-ten.vercel.app/) |
